@@ -1,10 +1,8 @@
 {
-  "name": "ng-card",
-  "version": "0.0.1",
-  "description": "Personal card for web apps",
+  "name": "scaff-component",
+  "version": "0.0.1-alpha-1",
+  "description": "Scaffolding to develop components in angular 2",
   "main": "index.ts",
-  "module": "src/module/ngCard.module.ts",
-  "types": "src/module/ngCard.module.ts",
   "scripts": {
     "test": "karma start",
     "build": "rimraf dist && webpack --progress --profile --bail"
