@@ -1,0 +1,1 @@
+export { HelloWorldModule } from './src/module/hello-world.module';
